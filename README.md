@@ -10,10 +10,11 @@ which consists of several images of airplanes, dogs, cats and other objects.
 
 * numpy
 * matplotlib
+* jupyter notebook
 * tensorflow
 
 Install missing depencies with [pip](https://pip.pypa.io/en/stable/) and/or [anaconda](https://www.continuum.io/downloads). Tensorflow can be installed via this [link](https://www.tensorflow.org/install/).
 
 ## Usage
 
-Once depencies are installed, 
+Once depencies are installed, just run `jupyter notebook` in the terminal to see the code.
