@@ -13,7 +13,7 @@ which consists of several images of airplanes, dogs, cats and other objects.
 * jupyter notebook
 * tensorflow
 
-Install missing depencies with [pip](https://pip.pypa.io/en/stable/) and/or [anaconda](https://www.continuum.io/downloads). Tensorflow can be installed via this [link](https://www.tensorflow.org/install/).
+Install missing dependencies with [pip](https://pip.pypa.io/en/stable/) and/or [anaconda](https://www.continuum.io/downloads). Tensorflow can be installed via this [link](https://www.tensorflow.org/install/).
 
 ## Usage
 
