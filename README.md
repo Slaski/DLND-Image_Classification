@@ -17,4 +17,4 @@ Install missing depencies with [pip](https://pip.pypa.io/en/stable/) and/or [ana
 
 ## Usage
 
-Once depencies are installed, just run `jupyter notebook` in the terminal to see the code.
+Once dependencies are installed, just run `jupyter notebook` in the terminal to see the code.
